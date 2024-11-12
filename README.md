@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Yuvan7x/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yuvan7x/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yuvan7x/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yuvan7x/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
